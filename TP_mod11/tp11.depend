@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670129079 source:c:\users\user\documents\#kuliah\tugas\pemrograman\sem2\apaaja\tp11\main.cpp
+	<iostream>
+	"tp11.h"
+
+1670125489 c:\users\user\documents\#kuliah\tugas\pemrograman\sem2\apaaja\tp11\tp11.h
+	<iostream>
+
+1670129079 source:c:\users\user\documents\#kuliah\tugas\pemrograman\sem2\apaaja\tp11\tp11.cpp
+	"tp11.h"
+
