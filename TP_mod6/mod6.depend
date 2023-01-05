@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667191011 source:c:\users\user\documents\#kuliah\tugas\pemrograman\sem2\apaaja\mod6\mod6.cpp
+	"mod6.h"
+
+1667191932 c:\users\user\documents\#kuliah\tugas\pemrograman\sem2\apaaja\mod6\mod6.h
+	<iostream>
+
+1667191061 source:c:\users\user\documents\#kuliah\tugas\pemrograman\sem2\apaaja\mod6\main.cpp
+	"mod6.h"
+
